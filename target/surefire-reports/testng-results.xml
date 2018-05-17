@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1895" started-at="2018-05-17T17:49:27Z" finished-at="2018-05-17T17:49:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1895" started-at="2018-05-17T17:49:27Z" finished-at="2018-05-17T17:49:29Z">
+      <class name="apitesting.apiGet.GetApiClassExercise">
+        <test-method status="PASS" signature="get()[pri:0, instance:apitesting.apiGet.GetApiClassExercise@2133c8f8]" name="get" duration-ms="1825" started-at="2018-05-18T03:49:27Z" finished-at="2018-05-18T03:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="entityTest()[pri:1, instance:apitesting.apiGet.GetApiClassExercise@2133c8f8]" name="entityTest" duration-ms="36" started-at="2018-05-18T03:49:29Z" finished-at="2018-05-18T03:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entityTest -->
+      </class> <!-- apitesting.apiGet.GetApiClassExercise -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
