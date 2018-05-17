@@ -19,6 +19,7 @@ import org.testng.annotations.Test;
 import utils.TestUtils;
 
 public class GetApiClassExercise {
+	
 	String url = "https://reqres.in//api/users/2";
 	CloseableHttpResponse closeabelHttpResponse;
 	
